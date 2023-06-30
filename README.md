@@ -1,10 +1,12 @@
                                         # 1mg-Homeopathic-data-analysis
 
 ----Introduction----
+
 "1mg-Homeopathic-data-analysis" project focuses on analysis of homeopathic medicine data of 1 mg site to tell about different KPIs of the medicines 
 and finally this project tells about the cost of opening a new hmeopathic store.
 
 ----Final Goal To Achieve----
+
 Final goal for this project to find different key points in the data to visulaize and analize data of 1 mg homeopathic medicines. And from this 
 data tell the approximate cost on opening a new homeopathic store to the end user. These insights can be used to make informed decisions for opening a new homeopathic medicine store.
 
