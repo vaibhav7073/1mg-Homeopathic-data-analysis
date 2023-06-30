@@ -1,11 +1,13 @@
                                         # 1mg-Homeopathic-data-analysis
 
-----Introduction----
+----Introduction---- 
+
 
 "1mg-Homeopathic-data-analysis" project focuses on analysis of homeopathic medicine data of 1 mg site to tell about different KPIs of the medicines 
 and finally this project tells about the cost of opening a new hmeopathic store.
 
-----Final Goal To Achieve----
+----Final Goal To Achieve---- 
+
 
 Final goal for this project to find different key points in the data to visulaize and analize data of 1 mg homeopathic medicines. And from this 
 data tell the approximate cost on opening a new homeopathic store to the end user. These insights can be used to make informed decisions for opening a new homeopathic medicine store.
@@ -15,7 +17,7 @@ data tell the approximate cost on opening a new homeopathic store to the end use
 ![image](https://github.com/vaibhav7073/1mg-Homeopathic-data-analysis/assets/131877087/e3cd505b-4ff2-4eb3-8704-f54a4d007c6c)
 
 
-----Data Description----
+----Data Description---- 
 
 (1)The 1mg Homeopathic Project aims to analyze and provide information about homeopathic medicines and treatments. 
 The project requires collecting and analyzing data related to homeopathic medicines, their ingredients, ratings, price, and effectiveness. 
@@ -57,7 +59,8 @@ This includes creating Dashboard from different interactive charts to effectivel
 
 ![image](https://github.com/vaibhav7073/1mg-Homeopathic-data-analysis/assets/131877087/afadde13-8638-458b-bb27-c3027f34afff)
 
------Challenges Faced-----
+-----Challenges Faced-----  
+
 
 In the scrapping i was getting different null values and duplicates so the challange was to remove these duplicates and filling of null 
 values with the appropiate one.
